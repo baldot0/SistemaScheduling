@@ -1,0 +1,21 @@
+id,descrizione,livello,timestampArrivo
+T001,Server di produzione irraggiungibile,CRITICO,1732000000
+T002,Richiesta nuovo account email,BASSO,1732000100
+T003,Stampante piano 2 non funziona,MEDIO,1732000050
+T004,Database ordini lento,ALTO,1732000200
+T005,VPN aziendale non si connette,ALTO,1732000150
+T006,Firewall bloccato dopo aggiornamento,CRITICO,1732000300
+T007,Installazione software contabilita,BASSO,1732000350
+T008,Backup notturno fallito,CRITICO,1732000250
+T009,Monitor secondario non rilevato,MEDIO,1732000400
+T010,Reset password account HR,ALTO,1732000420
+T011,Posta elettronica in ritardo,ALTO,1732000500
+T012,Mouse wireless difettoso,basso,1732000520
+T013,Switch di rete piano 1 offline,CRITICO,1732000550
+T014,Licenza antivirus in scadenza,MEDIO,1732000600
+T015,Portatile non si avvia,ALTO
+T016,Accesso negato al file server,ALTO,1732000700
+T017,Aggiornamento sistema operativo,BASSO,1732000750
+T018,Telefono IP senza audio,MEDIO,1732000800
+T019,Sito web intranet non risponde,CRITICO,abc
+T020,Cartuccia toner esaurita,BASSO,1732000900
